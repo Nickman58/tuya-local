@@ -1,6 +1,7 @@
 name: Three outlet powerstrip
 products:
   - id: haay5f2zrjedat8z
+    name: Antela Smart Power Strip
     manufacturer: LSC Smart Connect
 entities:
   - entity: switch
